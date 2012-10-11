@@ -1,4 +1,5 @@
 android-location-services
 =========================
 
-Fetch Device Lat Long 
+Fetch Device Location Coordinates.
+GPS/Network Based. 
